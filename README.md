@@ -1,8 +1,8 @@
 # HoyoBrowser
 
-> macOS 浮动浏览器，专为一边肝米游一边看攻略设计。通过快捷键控制播放。
+macOS 浮动浏览器，专为一边肝米游一边看攻略设计。通过快捷键控制播放。
 
-[\[English\]](README_EN.md)
+[\[简体中文\]](README.md) [\[English\]](README_EN.md)
 
 ## 快捷键
 

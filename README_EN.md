@@ -2,7 +2,7 @@
 
 > macOS floating browser, designed for grinding miHoYo games while watching guides. Control playback with keyboard shortcuts.
 
-[\[简体中文\]](README.md)
+[\[简体中文\]](README.md) [\[English\]](README_EN.md)
 
 ## Shortcuts
 
